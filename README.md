@@ -1,4 +1,4 @@
-# HARVARD-STYLE CV TEMPLATE
+
 
 ## **SINA RAJAEEIAN**
 **Email:** sinar@kth.se  
