@@ -7,13 +7,13 @@
 
 ## **EDUCATION**
 
-**KTH Royal Institute of Technology** .................................................. Stockholm, Sweden | Present  
+**KTH Royal Institute of Technology** <span style="float:right;">Stockholm, Sweden | Present</span>  
 *M.Sc. in Industrial Engineering and Management, Machine Learning Track (MAIG)*  
 *Civilingenjör, Industriell Ekonomi, Datateknik*  
 
 **Bachelor Thesis:** ML-Driven Predictive Maintenance for Mining; developed a predictive prototype for Epiroc AB using historical sensor data to forecast equipment condition.  
 
-**Örebro University** ................................................................ Örebro, Sweden | 2022  
+**Örebro University** <span style="float:right;">Örebro, Sweden | 2022</span>  
 *Standalone Course: Practical Finance*  
 Applied economic models to real-life financial decisions including saving, investing, and housing.  
 
@@ -21,7 +21,7 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ## **EXPERIENCE**
 
-**JPMorgan Chase** ........................................................................ Remote | July 2025  
+**JPMorgan Chase** <span style="float:right;">Remote | July 2025</span>  
 *Investment Banking Job Simulation Program*  
 
 • Identified an ideal M&A target for a client by assessing strategic and financial criteria  
@@ -29,29 +29,29 @@ Applied economic models to real-life financial decisions including saving, inves
 • Adjusted the valuation model to account for a competitor bid and supply chain interruption  
 • Created a company profile and summary of an auction process for the client  
 
-**Deloitte** ......................................................................................... Remote | June 2025  
+**Deloitte** <span style="float:right;">Remote | June 2025</span>  
 *Data Analyst Online Internship Program*  
 
 • Analyzed and visualized datasets using Excel and Tableau to support data-driven decision-making  
 
-**KTH Hyperloop** .................................................................... Stockholm, Sweden | 2023 – 2025  
+**KTH Hyperloop** <span style="float:right;">Stockholm, Sweden | 2023 – 2025</span>  
 *S&P Manager*  
 
 • Identified and engaged potential sponsors to foster partnerships for project funding and equipment supply  
 
-**Ingenjörskapital, KTH Student Association** .............................. Stockholm, Sweden | 2023 – 2024  
+**Ingenjörskapital, KTH Student Association** <span style="float:right;">Stockholm, Sweden | 2023 – 2024</span>  
 *Investment Analyst*  
 
 • Managed the student association's savings portfolio as part of a student-driven investment fund team  
 • Conducted investment analysis, equity research, and valuation  
 
-**Impressive Relations** ................................................................. Stockholm, Sweden | 2022  
+**Impressive Relations** <span style="float:right;">Stockholm, Sweden | 2022</span>  
 *Sales Representative*  
 
 • Specialized in selling electricity contracts through direct customer engagement  
 • Achieved recognition as the month's top seller  
 
-**Face2Face** .................................................................................... Stockholm, Sweden | 2021  
+**Face2Face** <span style="float:right;">Stockholm, Sweden | 2021</span>  
 *Sales Representative*  
 
 • Successfully sold electricity contracts in a competitive direct sales environment  
