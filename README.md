@@ -99,19 +99,4 @@ Stockholm, Sweden
 • **English:** Professional proficiency  
 • **Persian:** Mother tongue  
 
----
 
-## **NOTES ON HARVARD CV FORMATTING:**
-
-1. **Header:** Bold name, contact info below
-2. **Section Headers:** ALL CAPS, bold
-3. **Organization Names:** Bold
-4. **Job Titles:** Italic
-5. **Dates:** Right-aligned or separated with pipes
-6. **Bullet Points:** Use consistent bullet style
-7. **Spacing:** Consistent spacing between sections
-8. **Font:** Professional, readable font (Times New Roman, Arial, or Calibri)
-9. **Margins:** 1-inch margins all around
-10. **Length:** Typically 1-2 pages
-
-This template follows Harvard Business School CV guidelines and can be easily converted to Word or Google Docs format.
