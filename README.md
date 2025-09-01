@@ -45,13 +45,13 @@ Applied economic models to real-life financial decisions including saving, inves
 • Managed the student association's savings portfolio as part of a student-driven investment fund team  
 • Conducted investment analysis, equity research, and valuation  
 
-**Impressive Relations** <span style="float:right;">Stockholm, Sweden | 2022</span>  
+**Impressive Relations** <span style="float:right;">Stockholm, Sweden</span>  
 *Sales Representative*  
 
 • Specialized in selling electricity contracts through direct customer engagement  
 • Achieved recognition as the month's top seller  
 
-**Face2Face** <span style="float:right;">Stockholm, Sweden | 2021</span>  
+**Face2Face** <span style="float:right;">Stockholm, Sweden</span>  
 *Sales Representative*  
 
 • Successfully sold electricity contracts in a competitive direct sales environment  
