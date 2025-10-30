@@ -21,7 +21,7 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ## **EXPERIENCE**
 
-**THS Consulting** <span style="float:right;">Stockholm, Sweden | 2025 – Present</span>  
+**THS Consulting** <span style="float:right;">Stockholm, Sweden | Oct 2025 – Present</span>  
 *AI Engineer Consultant*  
 • Build a multi-agent AI Deal Assistant that automates VC/PE workflows across DealCloud, Outlook, and the browser  
 • Notes to CRM and document intelligence: capture and summarize meetings; parse IC/VDR materials to surface key risks and generate one-page brief  
