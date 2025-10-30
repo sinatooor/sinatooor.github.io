@@ -21,6 +21,20 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ## **EXPERIENCE**
 
+**THS Consulting** <span style="float:right;">Stockholm, Sweden | 2025 – Present</span>  
+*AI Engineer Consultant*  
+• Build a multi-agent AI Deal Assistant that automates VC/PE workflows across DealCloud, Outlook, and the browser
+• Notes to CRM and document intelligence: capture and summarize meetings; parse IC/VDR materials to surface key risks and generate one-page brief
+• Data-entry automations: parse expenses from photos; create companies/contacts with one click (with enrichment); deliver POCs with measurable time savings  
+• Productivity agents: propose best flight options in sync with calendars; create first-draft presentations and internal training aids   
+
+**First Momentum Ventures** <span style="float:right;">Remote | Oct 2025 – Present</span>  
+*Venture Scout*  
+
+• Represent a first-round deep & industrial tech fund (>50 portfolio companies) within the Stockholm startup ecosystem  
+• Source and evaluate founders in AI/ML and deep tech; conduct market, product, and team assessments  
+• Build pipeline by facilitating introductions between founders and the investment team  
+
 **JPMorgan Chase** <span style="float:right;">Remote | July 2025</span>  
 *Investment Banking Job Simulation Program*  
 
@@ -59,6 +73,15 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ---
 
+## **DIGITAL PRODUCTS**
+
+**[pomo.best](https://pomo.best)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
+• Built and launched a minimalist AI powered productivity for students and professionals  
+• Responsible for product design, implementation, SEO, marketing, analytics and deployment end-to-end  
+• Reached **1,000 active users** to date through organic adoption and word of mouth  
+
+---
+
 ## **HONORS & AWARDS**
 
 **Nordea-X-Amazon AWS AI Hackathon Winner**  
@@ -78,13 +101,19 @@ Applied economic models to real-life financial decisions including saving, inves
 • **Applications:** Natural Language Processing (NLP), Computer Vision, Predictive Modelling  
 • **Frameworks:** PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
 
+**AI Tools:** Lovable, Claude CLI, Generative AI for Marketing ,prompt design
+
 **Programming:** Python, Java, Swift, Swift UI, Docker  
 
 **Web Development:** JavaScript, React.js, Node.js, Vue.js, Express, CSS, PostgreSQL, MongoDB  
 
+**Web Design:** Tailwind CSS, Figma, Bootstrap, Canvas, Photoshop  
+
 **Cloud & Data:** Google Cloud Platform, Tableau, Statistical Analysis, Data Cleansing  
 
 **Finance & Accounting:** Financial Analysis, DCF Evaluation, Capital Structure, Budgeting, Fortnox  
+
+**MS Office:** Excel, PowerPoint  
 
 ---
 
