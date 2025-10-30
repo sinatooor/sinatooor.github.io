@@ -25,7 +25,6 @@ Applied economic models to real-life financial decisions including saving, inves
 *AI Engineer Consultant*  
 • Build a multi-agent AI Deal Assistant that automates VC/PE workflows across DealCloud, Outlook, and the browser  
 • Notes to CRM and document intelligence: capture and summarize meetings; parse IC/VDR materials to surface key risks and generate one-page brief  
-• Data-entry automations: parse expenses from photos; create companies/contacts with one click (with enrichment); deliver POCs with measurable time savings  
 • Productivity agents: propose best flight options in sync with calendars; create first-draft presentations and internal training aids   
 
 **First Momentum Ventures** <span style="float:right;">Remote | Oct 2025 – Present</span>  
