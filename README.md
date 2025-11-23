@@ -77,7 +77,7 @@ Applied economic models to real-life financial decisions including saving, inves
 **[pomo.best](https://pomo.best)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
 • Built and launched a minimalist AI powered productivity for students and professionals  
 • Responsible for product design, implementation, SEO, marketing, analytics and deployment end-to-end  
-• Reached **1,000 active users** to date through organic adoption and word of mouth  
+• Reached **100 active users** to date through organic adoption and word of mouth  
 
 ---
 
