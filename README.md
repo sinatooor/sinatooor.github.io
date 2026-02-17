@@ -1,10 +1,26 @@
-## **SINA RAJAEEIAN**
-**Email:** sinar@kth.se  
-**Phone:** 076 955 27 93  
-**Location:** Stockholm, Sweden  
+<div style="
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 60px 0;
+">
 
----
+<h1 style="margin-bottom: 25px; letter-spacing: 2px;">
+  SINA RAJAEEIAN
+</h1>
 
+<div style="font-size: 18px; margin-bottom: 40px;">
+  <strong>Email:</strong> sinar@kth.se &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>Phone:</strong> 076 955 27 93 &nbsp;&nbsp; | &nbsp;&nbsp;
+  <strong>Location:</strong> Stockholm, Sweden
+</div>
+
+<hr style="width: 80%; margin-bottom: 40px;">
+
+
+</div>
 ## **EDUCATION**
 
 **KTH Royal Institute of Technology** <span style="float:right;">Stockholm, Sweden | Present</span>  
@@ -73,8 +89,8 @@ Applied economic models to real-life financial decisions including saving, inves
 • Responsible for product design, implementation, SEO, marketing, analytics and deployment end-to-end  
 • Reached **100 active users** to date through organic adoption and word of mouth  
 
-**[pomo.best](https://pomo.best)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
-• IT consulting company that helps clients further develop their no-code generated app and websites.
+**[afterlove.dev](https://afterlove.dev)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
+• IT consulting company that helps clients further develop their no-code generated app and websites  
 • take products that are 80% completed by no-code tools like lovable and develope them into fully launch-ready solutions.
 
 ---
