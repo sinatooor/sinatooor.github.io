@@ -21,12 +21,6 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ## **EXPERIENCE**
 
-**THS Consulting** <span style="float:right;">Stockholm, Sweden | Oct 2025 – Present</span>  
-*AI Engineer Consultant*  
-• Build a multi-agent AI Deal Assistant that automates VC/PE workflows across DealCloud, Outlook, and the browser  
-• Notes to CRM and document intelligence: capture and summarize meetings; parse IC/VDR materials to surface key risks and generate one-page brief  
-• Productivity agents: propose best flight options in sync with calendars; create first-draft presentations and internal training aids   
-
 **First Momentum Ventures** <span style="float:right;">Remote | Oct 2025 – Present</span>  
 *Venture Scout*  
 
@@ -72,16 +66,23 @@ Applied economic models to real-life financial decisions including saving, inves
 
 ---
 
-## **DIGITAL PRODUCTS**
+## **Recent Projects**
 
 **[pomo.best](https://pomo.best)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
 • Built and launched a minimalist AI powered productivity for students and professionals  
 • Responsible for product design, implementation, SEO, marketing, analytics and deployment end-to-end  
 • Reached **100 active users** to date through organic adoption and word of mouth  
 
+**[pomo.best](https://pomo.best)** <span style="float:right;">Founder & Developer | Web | 2025 – Present</span>  
+• IT consulting company that helps clients further develop their no-code generated app and websites.
+• take products that are 80% completed by no-code tools like lovable and develope them into fully launch-ready solutions.
+
 ---
 
 ## **HONORS & AWARDS**
+
+**Top 3 Winner – QuantumBlack x Lovable Finance Hackathon**  
+• Built FX Sentinel, an AI tool for CFO risk analysis, collaborating with a newly formed team under 3 hours.
 
 **Nordea-X-Amazon AWS AI Hackathon Winner**  
 • Awarded first place for the technical solution among competing teams  
