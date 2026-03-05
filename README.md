@@ -23,11 +23,14 @@
 </div>
 ## **EDUCATION**
 
-**KTH Royal Institute of Technology** <span style="float:right;">Stockholm, Sweden | Present</span>  
-*M.Sc. in Industrial Engineering and Management, Machine Learning Track (MAIG)*  
-*Civilingenjör, Industriell Ekonomi, Datateknik*  
+**KTH Royal Institute of Technology** <span style="float:right;">Stockholm, Sweden | 2025 – 2027</span>  
+*Double M.Sc. in Industrial Engineering and Management + M.Sc. in Machine Learning*  
+*Civilingenjör Industriell Ekonomi, master i Maskin Inlärning*  
+Covering AI applications, deep learning, probabilistic modeling, reinforcement learning, optimization, LLMs, and large-scale data analysis with extensive hands-on projects using real-world datasets and related to businesses.  
 
-**Bachelor Thesis:** ML-Driven Predictive Maintenance for Mining; developed a predictive prototype for Epiroc AB using historical sensor data to forecast equipment condition.  
+**KTH Royal Institute of Technology** <span style="float:right;">Stockholm, Sweden | 2022 – 2025</span>  
+*Bachelor of Science in Industrial Engineering and Management*  
+**Bachelor Thesis:** ML-Driven Predictive Maintenance for Mining. Developed a machine-learning prototype for Epiroc AB using historical sensor data to predict equipment condition. Demonstrated potential to cut unplanned downtime by 20-30%, enabling significant operational cost savings.  
 
 **Örebro University** <span style="float:right;">Örebro, Sweden | 2022</span>  
 *Standalone Course: Practical Finance*  
